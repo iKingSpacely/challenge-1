@@ -1,6 +1,5 @@
 # challenge-1-refactoring-assignment
 
-
 ## description
 - Refactored this code to make HTML semantic
 - Cleaned up redundant CSS code
